@@ -3,7 +3,8 @@ Ideas repository to keep track of possible github features/issues and current so
 
 # Ideas
 - Github Actions - Improved Documentation / better templates ?
-- Github Actions - Repository Secrets Visibility to other members of the org without giving admin access. 
+- Github Actions - Repository Secrets Visibility to other members of the org without giving admin access  
+** Current solution :  use [gh cli tool](https://cli.github.com/manual/gh_secret_list)
 - Github Actions  
 ** [Native Concurrency solution](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#concurrency)  
 ** Current solution - [Styfle's Cancel Workflow](https://github.com/styfle/cancel-workflow-action)
